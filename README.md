@@ -53,7 +53,7 @@ Distributed image processing system using AWS EC2, S3, SQS, and Rekognition. Aut
 
 <p align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=sainageshgowrabalaji&show_icons=true&theme=react&count_private=true" height="160" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainageshgowrabalaji&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainageshgowrabalaji&layout=compact&theme=react" align = "left" height="160"/>
 </p>
 
 ---
