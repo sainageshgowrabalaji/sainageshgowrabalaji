@@ -47,14 +47,14 @@ Full-stack task and project management tool with live updates using WebSockets, 
 ### [AWS Image Recognition Pipeline](https://github.com/sainageshgowrabalaji/AWS-SQS-Image-Text-Rekognition)
 Distributed image processing system using AWS EC2, S3, SQS, and Rekognition. Automates image upload, detection, and classification using serverless queues and cloud-native design.
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=sainageshgowrabalaji&show_icons=true&theme=react&count_private=true" height="160" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=sainageshgowrabalaji&show_icons=true&theme=react&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainageshgowrabalaji&layout=compact&theme=react" align = "left" height="160"/>
-</p>
+</p>-->
 
 ## 🌐 Connect with Me
 
