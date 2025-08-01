@@ -56,8 +56,6 @@ Distributed image processing system using AWS EC2, S3, SQS, and Rekognition. Aut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainageshgowrabalaji&layout=compact&theme=react" align = "left" height="160"/>
 </p>
 
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sai-nagesh/)  
