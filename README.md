@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate and results-driven software engineer with 4+ years of experience building scalable backend systems and dynamic full-stack applications. I love designing clean APIs, solving real-world problems with code, and contributing to high-performance systems that scale.
+I'm a passionate and results-driven software engineer with 3+ years of experience building scalable backend systems and dynamic full-stack applications. I love designing clean APIs, solving real-world problems with code, and contributing to high-performance systems that scale.
 
 Currently, I’m working on modernizing enterprise systems with microservices, real-time event processing (Kafka), and CI/CD pipelines with Docker, Kubernetes, and Jenkins.
 
