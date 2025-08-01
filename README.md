@@ -58,7 +58,7 @@ Distributed image processing system using AWS EC2, S3, SQS, and Rekognition. Aut
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sai-nagesh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sai-nagesh/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](http://sainageshgowrabalaji.com)  
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowrabalajisainagesh@gmail.com)
 
